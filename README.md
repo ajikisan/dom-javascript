@@ -36,4 +36,4 @@
 <br> 5. Se os elementos possuirem a classe dark-mode, modifique seus estilos. Caso contrário, <br> volte os estilos para o original.
 
 <h2> DEMO </h2>
-! [Light and Dark Mode] (dark-light-and-dark-mode-pessoal-microsoft-edge-2022-07-18.gif) / ! [] (dark-light-and-dark-mode-pessoal-microsoft-edge-2022-07-18.gif)
+! [Light and Dark Mode] (https://github.com/ajikisan/dom-javascript/blob/master/dark-light-and-dark-mode-pessoal-microsoft-edge-2022-07-18.gif)
